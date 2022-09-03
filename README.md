@@ -5,26 +5,30 @@
 
 ## 📆 Timeline
 * Python
-  - [ ] 4장. 빅오, 자료형
-  - [ ] 5장. 리스트, 딕셔너리
-  - [ ] 6장. 문자열 조작
-* 선형 자료구조
-  - [ ] 7장. 배열
-  - [ ] 8장. 연결 리스트
-  - [ ] 9장. 스택, 큐
-  - [ ] 10장. 데크, 우선순위 큐
-  - [ ] 11장. 해시 테이블
-* 비선형 자료구조
-  - [ ] 12장. 그래프
-  - [ ] 13장. 최단 경로 문제
-  - [ ] 14장. 트리
-  - [ ] 15장. 힙
-  - [ ] 16장. 트라이
-* 알고리즘
-  - [ ] 17장. 정렬
-  - [ ] 18장. 이진 검색
-  - [ ] 19장. 비트 조작
-  - [ ] 20장. 슬라이딩 윈도우
-  - [ ] 21장. 그리디 알고리즘
-  - [ ] 22장. 분할 정복
-  - [ ] 23장. 다이나믹 프로그래밍
+  - [ ] 4장. 빅오(Big O), 자료형(Data Type)
+  - [ ] 5장. 리스트(List), 딕셔너리(Dictionary)
+  - [ ] 6장. 문자열 조작(String Manipulation)
+* 선형 자료구조(Linear Data Structure)
+  - [ ] 7장. 배열(Array)
+  - [ ] 8장. 연결 리스트(Linked List
+  - [ ] 9장. 스택(Stack), 큐(Queue)
+  - [ ] 10장. 데크(Deque), 우선순위 큐(Priority Queue)
+  - [ ] 11장. 해시 테이블(Hash Table)
+* 비선형 자료구조(Non-Linear Data Structure)
+  - [ ] 12장. 그래프(Graph)
+  - [ ] 13장. 최단 경로 문제(Shortest path)
+  - [ ] 14장. 트리(Tree)
+  - [ ] 15장. 힙(Heap)
+  - [ ] 16장. 트라이(Trie)
+* 알고리즘(Algorithm)
+  - [ ] 17장. 정렬(Array)
+  - [ ] 18장. 이진 검색(Binary Search)
+  - [ ] 19장. 비트 조작(Bit Manipulation)
+  - [ ] 20장. 슬라이딩 윈도우(Sliding Window)
+  - [ ] 21장. 그리디 알고리즘(Greedy Algorithm)
+  - [ ] 22장. 분할 정복(Divide and Conquer)
+  - [ ] 23장. 다이나믹 프로그래밍(Dynamic Programming)
+
+## References
+* [코딩 테스트로 시작하는 파이썬 프로그래밍](http://www.yes24.com/Product/Goods/108929583)
+* [Boostcourse_[MIT]파이썬을 이용한 알고리즘의 이해](https://www.boostcourse.org/cs113/joinLectures/195063)
