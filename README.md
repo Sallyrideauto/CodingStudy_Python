@@ -30,5 +30,10 @@
   - [ ] 23장. 다이나믹 프로그래밍(Dynamic Programming)
 
 ## 🔍 References
+* KNOU 2022-2학기 자료구조 강의
+* [보통의 취준생을 위한 코딩 테스트 with 파이썬](http://www.yes24.com/Product/Goods/107478270)
 * [코딩 테스트로 시작하는 파이썬 프로그래밍](http://www.yes24.com/Product/Goods/108929583)
-* [Boostcourse_[MIT]파이썬을 이용한 알고리즘의 이해](https://www.boostcourse.org/cs113/joinLectures/195063)
+* [Algorithmic Thinking](https://nostarch.com/algorithmic-thinking)
+* [Dive Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
+* [Boostcourse_[MIT] 파이썬을 이용한 알고리즘의 이해](https://www.boostcourse.org/cs113/joinLectures/195063)
+* [BoostCourse_모두를 위한 컴퓨터 과학(CS50 2019)](https://www.boostcourse.org/cs112/joinLectures/41307)
