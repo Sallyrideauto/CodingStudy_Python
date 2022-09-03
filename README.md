@@ -29,6 +29,6 @@
   - [ ] 22장. 분할 정복(Divide and Conquer)
   - [ ] 23장. 다이나믹 프로그래밍(Dynamic Programming)
 
-## References
+## 🔍 References
 * [코딩 테스트로 시작하는 파이썬 프로그래밍](http://www.yes24.com/Product/Goods/108929583)
 * [Boostcourse_[MIT]파이썬을 이용한 알고리즘의 이해](https://www.boostcourse.org/cs113/joinLectures/195063)
